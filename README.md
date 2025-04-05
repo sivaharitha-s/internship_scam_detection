@@ -1,10 +1,10 @@
-#Intern Checker: Detecting Fake Internships Using AI
+Intern Checker: Detecting Fake Internships Using AI
 
-#Problem Statement
+PROBLEM STATEMENT:
 
 Many students fall for fake internship offers that ask for money, have unclear job roles, or skip proper selection processes. These scams waste time, money, and provide no real learning.
 
-#Solution
+SOLUTION:
 
 Intern Checker is a web app that helps detect fake internships. Users can upload a photo, URL, or text description of the internship. The app uses AI and reviews analysis to:
 
